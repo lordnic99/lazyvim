@@ -7,3 +7,4 @@ vim.o.smartindent = true
 vim.o.shiftwidth = 4
 
 vim.o.autowriteall = true
+vim.g.autoformat = false
